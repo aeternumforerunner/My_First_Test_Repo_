@@ -1,7 +1,6 @@
-# My_First_Test_Repo_
-My_First_Test_Repo_
-ЭН1-32 
+# My_First_Test_Repo
+## Состав бригады 
 Агбан
 Парыгин
 Харьковский
-Андрей
+Группа ЭН1-32
